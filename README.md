@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Building advanced **MERN Stack** and **Full-Stack** apps
-- 🌱 Currently learning: **Spring Boot**, **System Design**, **FastAPI**, **Docker**
-- 💬 Ask me about: **React, Next.js, TypeScript, Node.js, Express, MongoDB**
+- 🌱 Currently learning: **Spring Boot**, **System Design**, **FastAPI**, 
+- 💬 Ask me about: **React, Next.js, TypeScript , Redux, Node.js, Express, MongoDB,mySQl,Python,FastApi** 
 - 🏫 Studying at: **Faculty of Computers and Information, Tanta University**
 - ⚡ Fun Fact: Fast learner & team player who loves solving real-world problems
 
