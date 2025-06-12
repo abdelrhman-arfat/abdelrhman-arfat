@@ -82,9 +82,10 @@
   <a href="https://www.linkedin.com/in/abdo-yasser-946493221" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
   </a>
-  <a href="abdoarfat2006@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>
-  </a>
+<a href="mailto:abdoarfat2006@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email"/>
+</a>
+
   <a href="https://abdoyasser.vercel.app" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="30" alt="Portfolio"/>
   </a>
