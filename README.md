@@ -9,9 +9,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building full-stack applications using **MERN Stack**
+- 🔭 Currently building full-stack applications using **MERN Stack** and **Laravel back-end**
 - 🌱 Learning the basics of: **FastAPI**, **System Design**, **Load Balancing**, **Nginx**
-- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Redux`, `Node.js`, `Express`, `MongoDB`, `MySQL`,`PHP`,`Laravel`, `Python`, `FastAPI`
+- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Redux`, `Node.js`, `Express`, `MongoDB`, `MySQL`,`PHP`,`Laravel`, 
 - 🎓 Computer Science student at **Tanta University**
 - ⚡ Fun fact: I’m a fast learner and a problem-solving enthusiast who enjoys team collaboration
 
