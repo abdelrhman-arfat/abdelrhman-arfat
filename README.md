@@ -1,14 +1,14 @@
-<img src="/159Z_2107.w026.n002.628B.p1.628.jpg" alt="Hero image"/>
 <div align="center">
-# 👋 Abdelrhman Yasser
-### Full-Stack Developer | MERN Stack & Laravel Specialist
+  <img src="159Z_2107.w026.n002.628B.p1.628.jpg" alt="Hero image" width="200"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=abdelrhman-arfat&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/abdelrhman-arfat?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/abdelrhman-arfat?label=Stars&style=flat-square&color=0e75b6" alt="GitHub stars"/>
-</p>
+  <h1>👋 Abdelrhman Yasser</h1>
+  <h3>Full-Stack Developer | MERN Stack & Laravel Specialist</h3>
 
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=abdelrhman-arfat&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+    <img src="https://img.shields.io/github/followers/abdelrhman-arfat?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/stars/abdelrhman-arfat?label=Stars&style=flat-square&color=0e75b6" alt="GitHub stars"/>
+  </p>
 ---
 
 </div>
