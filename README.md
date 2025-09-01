@@ -1,27 +1,40 @@
-<h1 align="center">👋 Hi, I'm Abdelrhman Yasser</h1>
-<h3 align="center">💻 Full-Stack Developer | MERN Stack & Laravel</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdelrhman-arfat&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/abdelrhman-arfat?label=Followers&style=flat&color=blue" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/abdelrhman-arfat?label=Stars&style=flat&color=yellow" alt="GitHub stars"/>
+# 👋 Abdelrhman Yasser
+### Full-Stack Developer | MERN Stack & Laravel Specialist
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abdelrhman-arfat&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/abdelrhman-arfat?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/abdelrhman-arfat?label=Stars&style=flat-square&color=0e75b6" alt="GitHub stars"/>
 </p>
 
 ---
 
+</div>
+
 ## 🧑‍💻 About Me
 
-- 🔭 Building full-stack applications using **MERN Stack** & **Laravel**
-- 🌱 Currently learning: **FastAPI**, **System Design**, **Load Balancing**, **Nginx**
-- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Redux`, `Node.js`, `Express`, `MongoDB`, `MySQL`, `PHP`, `Laravel`
-- 🎓 Computer Science student at **Tanta University**
-- ⚡ Fun fact: I’m a fast learner and love solving problems with clean code
+```yaml
+name: Abdelrhman Yasser
+role: Software Developer
+education: Computer Science @ Tanta University
+focus: Building scalable web applications with modern technologies
+expertise: [React, Next.js, TypeScript, Node.js, Laravel PHP, Hostinger MongoDB, MySQL]
+Bouns: [System Design, Load Balancing, Nginx]
+passion: Clean code, problem-solving, and continuous learning
+fun_fact: Fast learner who loves turning complex problems into elegant solutions
+```
 
 ---
 
-## 🚀 Tech Stack
+<h1 align="center">🚀 Technology Stack</h1>
+<br>
 
-### 🌐 Frontend
+<div align="center">
+
+<h1 align="left">🌐 Frontend Development</h1>
+<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
@@ -30,7 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS"/>
 </p>
 
-### 🧠 Backend
+<h1 align="left">🧠 Backend Development</h1>
+<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/>
@@ -38,14 +52,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/>
 </p>
 
-### 🛢️ Databases
+<h1 align="left">🛢️ Databases</h1>
+<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
 </p>
 
-### ⚙️ DevOps & Tools
+<h1 align="left">⚙️ DevOps & Tools</h1>
+<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
@@ -53,57 +69,65 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" alt="Nginx"/>
 </p>
 
-### 🎨 UI & Productivity Tools
+<h1 align="left">🎨 UI & Productivity Tools</h1>
+<br>
+
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" alt="ShadCN UI"/>
   <img src="https://avatars.githubusercontent.com/u/122802143?s=200&v=4" width="40" alt="Cursor"/>
   <img src="https://www.trela.com/favicon.ico" width="40" alt="Trela"/>
 </p>
 
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrhman-arfat&show_icons=true&theme=radical" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdelrhman-arfat&theme=radical" height="150" alt="streak"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-arfat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-arfat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-arfat&layout=compact&theme=radical" height="150" alt="languages"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhman-arfat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arfat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelrhman-arfat&theme=onedark&row=1&column=7" alt="trophies"/>
-</p>
-
----
-## 🐍 Contribution Graph
-
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+    <img src="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
   </picture>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdo-yasser-946493221" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abdoarfat2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://abdoyasser.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-yasser-946493221)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdoarfat2006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdoyasser.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer Wave"/>
+</div>
