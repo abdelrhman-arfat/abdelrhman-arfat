@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="159Z_2107.w026.n002.628B.p1.628.jpg" alt="Hero image" width="200"/>
+  <img src="159Z_2107.w026.n002.628B.p1.628.jpg" alt="Hero image" />
 
   <h1>👋 Abdelrhman Yasser</h1>
   <h3>Full-Stack Developer | MERN Stack & Laravel Specialist</h3>
