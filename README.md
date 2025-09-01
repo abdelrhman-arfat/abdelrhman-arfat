@@ -21,7 +21,7 @@ role: Software Developer
 education: Computer Science @ Tanta University
 focus: Building scalable web applications with modern technologies
 expertise: [React, Next.js, TypeScript, Node.js, Laravel PHP, Hostinger MongoDB, MySQL]
-Bouns: [System Design, Load Balancing, Nginx]
+Bouns: [System Design, Load Balancing, Nginx,CAP , caching , database design]
 passion: Clean code, problem-solving, and continuous learning
 fun_fact: Fast learner who loves turning complex problems into elegant solutions
 ```
