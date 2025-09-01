@@ -106,13 +106,7 @@ fun_fact: Fast learner who loves turning complex problems into elegant solutions
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/abdelrhman-arfat/abdelrhman-arfat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-  </picture>
-</div>
+![snake animation](https://github.com/abdelrhman-arfat/abdelrhman-arfat/blob/output/snake.svg)
 
 ---
 
