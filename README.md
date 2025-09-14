@@ -20,8 +20,8 @@ name: Abdelrhman Yasser
 role: Software Developer
 education: Computer Science @ Tanta University
 focus: Building scalable web applications with modern technologies
-expertise: [React, Next.js, TypeScript, Node.js, Laravel PHP, Hostinger MongoDB, MySQL]
-Bouns: [System Design, Load Balancing, Nginx,CAP , caching , database design]
+expertise: [React, Next.js, TypeScript, Node.js, Laravel PHP, Hostinger, MongoDB, MySQL, Spring Boot, RabbitMQ]
+Bouns: [System Design, Load Balancing, Nginx, CAP, caching, database design]
 passion: Clean code, problem-solving, and continuous learning
 fun_fact: Fast learner who loves turning complex problems into elegant solutions
 ```
@@ -58,7 +58,9 @@ fun_fact: Fast learner who loves turning complex problems into elegant solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" alt="RabbitMQ"/>
 </p>
+
 
 <h1 align="left">⚙️ DevOps & Tools</h1>
 <br>
