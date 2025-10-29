@@ -17,7 +17,7 @@
 
 ```yaml
 name: Abdelrhman Yasser
-role: Software Developer
+role: Backend @ Code root
 education: Computer Science @ Tanta University
 focus: Building scalable web applications with modern technologies
 expertise: [React, Next.js, TypeScript, Node.js, Laravel PHP, Hostinger, MongoDB, MySQL, Spring Boot, RabbitMQ]
